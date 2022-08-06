@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiefSphinx0319
 - 👀 I’m interested in ... Java language and its vast application
-- 🌱 I’m currently learning ... Java Programming Language and it's Spring Boot Framework
+- 🌱 I’m currently learning ... Java Programming Language and Spring Boot Framework
 - 💞️ I’m looking to collaborate on ... Java Projects!
 - 📫 How to reach me ... via Facebook @Lawrence Pajinag, Via Twitter @Boyswitsu, Via Gmail @rence.paji0319@gmail.com 
 
